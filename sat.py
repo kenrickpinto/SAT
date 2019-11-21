@@ -180,11 +180,3 @@ else:
 
 
 
-
-
-
-# Pass it into unit clause first and then pure literal
-#Apply DPLL on list clause that remains
-# Some inputs may be uninitialized
-#Do it randomly(Presently false; which is ok)
-
