@@ -1,8 +1,9 @@
-# SAT solver.
+# SAT solver
 
 ## Input format 
 First line contains literals in csv format. 
-Ex: If f = (a+b)(a+c)(a'+c). The first line will contain a,b,c. Do not include a' in this list.
+Ex: If f = (a+b)(a+c)(a'+c). The first line will contain a,b,c. 
+Do not include a' in this list.
 The next few lines should contain clauses(one per line)
 
 ## Working
